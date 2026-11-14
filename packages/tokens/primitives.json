@@ -1,0 +1,41 @@
+
+{
+  "color": {
+    "blue": {
+      "500": {
+        "$type": "color",
+        "$value": "#2563EB"
+      }
+    },
+    "neutral": {
+      "0": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#111827"
+      }
+    }
+  },
+  "spacing": {
+    "2": {
+      "$type": "dimension",
+      "$value": "8px"
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "12px"
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "16px"
+    }
+  },
+  "radius": {
+    "md": {
+      "$type": "dimension",
+      "$value": "8px"
+    }
+  }
+}

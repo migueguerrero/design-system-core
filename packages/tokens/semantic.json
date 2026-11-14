@@ -1,0 +1,51 @@
+
+{
+  "color": {
+    "action": {
+      "primary": {
+        "$type": "color",
+        "$value": "{color.blue.500}"
+      },
+      "on-primary": {
+        "$type": "color",
+        "$value": "{color.neutral.0}"
+      }
+    },
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "{color.neutral.900}"
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "{color.neutral.0}"
+      }
+    },
+    "surface": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.neutral.0}"
+      }
+    }
+  },
+  "space": {
+    "small": {
+      "$type": "dimension",
+      "$value": "{spacing.2}"
+    },
+    "medium": {
+      "$type": "dimension",
+      "$value": "{spacing.3}"
+    },
+    "large": {
+      "$type": "dimension",
+      "$value": "{spacing.4}"
+    }
+  },
+  "borderRadius": {
+    "medium": {
+      "$type": "dimension",
+      "$value": "{radius.md}"
+    }
+  }
+}

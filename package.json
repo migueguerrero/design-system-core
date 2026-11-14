@@ -1,0 +1,27 @@
+{
+  "name": "design-system-core",
+  "version": "1.0.0",
+  "description": "IA Desygn System",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueguerrero/design-system-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/migueguerrero/design-system-core/issues"
+  },
+  "homepage": "https://github.com/migueguerrero/design-system-core#readme",
+  "devDependencies": {
+    "style-dictionary": "^5.8.0"
+  }
+}

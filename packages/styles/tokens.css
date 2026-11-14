@@ -1,0 +1,22 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --color-blue-500: #2563eb;
+  --color-neutral-0: #ffffff;
+  --color-neutral-900: #111827;
+  --color-action-primary: #2563eb;
+  --color-action-on-primary: #ffffff;
+  --color-text-primary: #111827;
+  --color-text-inverse: #ffffff;
+  --color-surface-default: #ffffff;
+  --spacing-2: 8px;
+  --spacing-3: 12px;
+  --spacing-4: 16px;
+  --radius-md: 8px;
+  --space-small: 8px;
+  --space-medium: 12px;
+  --space-large: 16px;
+  --border-radius-medium: 8px;
+}
